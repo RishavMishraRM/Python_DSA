@@ -6,3 +6,5 @@ def calculate_rec(n):
 
 
 calculate_rec(4)
+
+## Time Complexity: O(n)s

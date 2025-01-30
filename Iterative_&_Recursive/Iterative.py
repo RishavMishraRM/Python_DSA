@@ -6,3 +6,5 @@ def calculate_itr(n):
 
 
 calculate_itr(4)
+
+## Time Complexity: O(n)
